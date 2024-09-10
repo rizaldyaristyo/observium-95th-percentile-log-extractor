@@ -5,7 +5,7 @@
 # means run every Friday at 2:00 (maybe ???)
 
 import requests,datetime,requests,csv,pickle,os#,sys
-url="https://observium.j99corp.com/graph.php"
+url="https://observium.domain.com/graph.php"
 OBSERVIUM_USERNAME="your_observium_username"
 OBSERVIUM_PASSWORD="your_observium_password"
 GROUP_IDS=[
